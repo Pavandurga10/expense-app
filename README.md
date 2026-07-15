@@ -30,6 +30,3 @@ A 3-tier expense tracker web application deployed on AWS EC2 using Nginx, Node.j
 - systemd service configuration
 - AWS EC2 instance management
 - Security best practices (non-root users, sudo)
-```
-
-
